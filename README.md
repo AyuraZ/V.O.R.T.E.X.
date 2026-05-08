@@ -1,16 +1,20 @@
 # V.O.R.T.E.X.
 
-V.O.R.T.E.X. (Vetor Otimizado de Raciocínio Tecnológico Expansivo) é um projeto criativo que apresenta um universo fictício por meio do site institucional de uma empresa de tecnologia focada em inteligência artificial, pesquisa avançada e entre muitas outras tecnologias.
+V.O.R.T.E.X. (Vetor Otimizado de Raciocínio Tecnológico Expansivo) é um projeto criativo que apresenta um universo fictício por meio de inicialmente um site institucional de uma empresa de tecnologia focada em inteligência artificial, pesquisas avançadas e entre muitas outras tecnologias.
 
-O projeto utiliza a estrutura de um site corporativo para contar uma narrativa aos poucos, através de páginas institucionais, documentos internos e registros de pesquisa.
+O projeto utiliza e aproveita a estrutura de um site corporativo para contar uma narrativa aos poucos, através de páginas institucionais, documentos internos, registros de pesquisa, e experimentos interaivos.
 
 ## Conceito
-A ideia é que o próprio site seja o meio narrativo, misturando linguagem corporativa com elementos que fogem do comum conforme o conteúdo evolui.
+A ideia é introduzir esse verso fictício através de um site (por agora, mas futuramente uma aplicação web com várias interações e funcionalidades), misturando linguagem corporativa com elementos que fogem do comum conforme o conteúdo for evoluindo, sempre explorando oque e até onde a tecnologia pode chegar ou oferecer a pessoas.
 
-## Tecnologias
+## Tecnologias (Iniciais):
 - HTML (estrutura inicial)
 - CSS (em desenvolvimento)
 - JavaScript (planejado)
+- API's (não-definidas)
+- Banco de Dados (não-definido)
 
 ## Status
 Projeto em fase inicial, em constante construção.
+
+Ass: Dra.Z
